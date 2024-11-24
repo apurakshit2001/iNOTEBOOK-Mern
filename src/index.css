@@ -1,0 +1,9 @@
+.no-bg {
+  background-color: #cdd8e7 !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+.no-bg>i {
+  color: #000 !important;
+}
+
